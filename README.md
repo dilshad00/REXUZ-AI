@@ -100,13 +100,27 @@ REXUZ AI is **free**. **REXUZ Pro** is an optional upgrade for people who want t
 | Learns your facts, style and corrections | ✅ | ✅ **Deeper**: more room for what it learns about you |
 | AI model size | Small and medium models | **Bigger, smarter models**: up to 12 billion parameters on capable phones, for better answers, code and games |
 | Understands pictures | Basic | **Top vision models** that look at your photos and answer questions about them |
-| Creative freedom | Standard | **Fewer limits** on stories, role-play and image prompts (18+) |
 | Image and video quality | Standard | **Higher-quality** image and video models and settings |
 | Ads | With ads | **No ads**: a clean, distraction-free app |
 | New features | Regular updates | **Early access** before everyone else |
 
-> REXUZ Pro will be available as an in-app purchase. Everything in the free app stays free.
+> REXUZ Pro is a one-time in-app purchase on Google Play. Everything in the free app stays free.
 > Pro is not distributed through this repository.
+
+---
+
+## 🔞 REXUZ Uncensored (18+)
+
+Google Play doesn't allow uncensored AI models, so they come in a separate edition, **REXUZ Uncensored**, for adults only.
+
+- Everything in REXUZ Pro
+- **Fewer limits** on stories, role-play and image prompts
+- **Uncensored models**, including a 12-billion-parameter model on capable phones
+- One-time purchase, licence for **2 devices**, works offline after activation
+- **Free for REXUZ Pro buyers:** enter your Google Play order number on the website to claim it
+
+Available only from the **[Pathfinders website](https://pathfinders.pathfinders-ai.workers.dev)**, never through this repository.
+Sexual content involving minors is always blocked, in every edition.
 
 ---
 
@@ -120,7 +134,7 @@ REXUZ AI is **free**. **REXUZ Pro** is an optional upgrade for people who want t
 | Your chats | Stored on their servers | Encrypted, on your phone |
 | Learning you | Stored in their cloud | On your phone, and you can delete any item |
 | Games and files | Some apps, online only | Yes, offline, with in-app play and **Fix it** |
-| Cost | Often a monthly subscription | Free, with an optional Pro upgrade |
+| Cost | Often a monthly subscription | Free, with optional one-time upgrades |
 
 *An honest note: very large cloud models are stronger at the hardest questions than any model that fits on a phone. REXUZ AI's strengths are privacy, offline use, no account, learning you, and creating things.*
 
@@ -143,7 +157,7 @@ Yes. Chats are answered by the model on your phone and stored encrypted on your 
 Yes. After you download a model, chat, voice, documents, images and file creation all work offline.
 
 **Where can I get it?**
-REXUZ AI is coming soon to Google Play. Star or watch this repository to know when it's out.
+REXUZ AI and REXUZ Pro are coming soon to Google Play. REXUZ Uncensored (18+) will be available only from the [Pathfinders website](https://pathfinders.pathfinders-ai.workers.dev). Star or watch this repository to know when they're out.
 
 **Where is the source code?**
 REXUZ AI is closed source. This repository is the official home page for news, releases and feedback.
@@ -152,7 +166,7 @@ REXUZ AI is closed source. This repository is the official home page for news, r
 
 ## Feedback
 
-Found a bug or have an idea? Open an [issue](../../issues), or email **pathfindersx10@gmail.com**.
+Found a bug or have an idea? Open an [issue](../../issues), or email **pathfindersx10@gmail.com**. Website: [pathfinders.pathfinders-ai.workers.dev](https://pathfinders.pathfinders-ai.workers.dev)
 
 <div align="center">
 
