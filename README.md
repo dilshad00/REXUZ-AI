@@ -116,10 +116,10 @@ Google Play doesn't allow uncensored AI models, so they come in a separate editi
 - Everything in REXUZ Pro
 - **Fewer limits** on stories, role-play and image prompts
 - **Uncensored models**, including a 12-billion-parameter model on capable phones
-- One-time purchase, licence for **2 devices**, works offline after activation
-- **Free for REXUZ Pro buyers:** enter your Google Play order number on the website to claim it
+- Licence for **2 devices**, works offline after activation
+- **Included free with REXUZ Pro:** buy Pro in the REXUZ AI app on Google Play, then claim Uncensored on the **[Pathfinders website](https://pathfinders.pathfinders-ai.workers.dev)** with your Google Play order number. It isn't sold separately.
 
-Available only from the **[Pathfinders website](https://pathfinders.pathfinders-ai.workers.dev)**, never through this repository.
+Never distributed through this repository.
 Sexual content involving minors is always blocked, in every edition.
 
 ---
@@ -157,7 +157,7 @@ Yes. Chats are answered by the model on your phone and stored encrypted on your 
 Yes. After you download a model, chat, voice, documents, images and file creation all work offline.
 
 **Where can I get it?**
-REXUZ AI and REXUZ Pro are coming soon to Google Play. REXUZ Uncensored (18+) will be available only from the [Pathfinders website](https://pathfinders.pathfinders-ai.workers.dev). Star or watch this repository to know when they're out.
+REXUZ AI and REXUZ Pro are coming soon to Google Play. REXUZ Uncensored (18+) comes free with REXUZ Pro and is claimed on the [Pathfinders website](https://pathfinders.pathfinders-ai.workers.dev). Star or watch this repository to know when they're out.
 
 **Where is the source code?**
 REXUZ AI is closed source. This repository is the official home page for news, releases and feedback.
