@@ -22,6 +22,12 @@ Most AI apps send every message you type to a company's servers. REXUZ AI runs t
 
 When you're online, REXUZ AI goes further: its built-in **web brain** looks up today's news, prices, scores and new releases before it answers. When you're offline, it keeps working.
 
+<div align="center">
+
+<img src="assets/screens.png" alt="REXUZ AI screens: home, chat, menu, settings and hardware" width="620" />
+
+</div>
+
 ---
 
 ## Features
